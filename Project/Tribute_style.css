@@ -1,25 +1,7 @@
 body {
     background-color: beige;
 }
-img{
-     /* img responive */
-    max-width: 100%;
-    height: auto;
-    display: block;
-    /* center the image */
-    margin: auto;
 }
 
-h1{
-    text-align: center;
-}
 
-caption{
-    font-family: "Lucida Console";
-}
-
-#img-div{
-    padding: 10px;
-    margin: 0;
-}
 
